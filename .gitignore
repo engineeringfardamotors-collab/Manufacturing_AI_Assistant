@@ -5,3 +5,8 @@ __pycache__/
 *.pyd
 .env
 .vscode/
+wheels_streamlit/
+.venv/
+__pycache__/
+*.pyc
+*.log
